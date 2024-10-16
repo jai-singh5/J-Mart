@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const About = () => {
   return (
     <div>
-      <div className="container py-5 my-5">
+      <div className="container py-5 ">
         <div className="row">
           <div className="col-md-6">
             <h1 className="text-primary fw-bold mb-4">About Us</h1>
@@ -25,7 +25,7 @@ const About = () => {
               Contact Us
             </NavLink>
             <hr />
-            <div className="navbar navbar-expand-lg navbar-light bg-white  ">
+            <div className="navbar navbar-expand-lg navbar-light bg-transparent  ">
               <div className="navbar-nav mx-auto mb-2 mb-lg-0 ">
                  <a href="https://instagram.com/rajput_jai005">
                   <i className="fa fa-instagram fa-lg me-5"></i>

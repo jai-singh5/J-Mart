@@ -18,8 +18,8 @@ const Checkout = () => {
 
     return (
         <>
-            <div className="container my-5">
-                    <div className="px-4 my-5 bg-light rounded-3 py-5">
+            <div className="container">
+                    <div className="px-4   rounded-3 py-5">
                         <h4 className="mb-3">Billing address</h4>
                         <form className="needs-validation" novalidate="">
                             <div className="row g-3">
@@ -86,7 +86,9 @@ const Checkout = () => {
                                     <label htmlFor="state" className="form-label">State</label>
                                     <select className="form-select" id="state" required="">
                                         <option value="">Choose...</option>
-                                        <option>Rajasthan</option>
+                                        <option>Maharashtra</option>
+                                        <option>Gujarat</option>
+                                        <option>New Delhi</option>
                                     </select>
                                     <div className="invalid-feedback">
                                         Please provide a valid state.

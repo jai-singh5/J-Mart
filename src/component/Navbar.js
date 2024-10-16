@@ -7,7 +7,7 @@ const Navbar = () => {
     const state =useSelector((state)=> state.handleCart)
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-info py-3 shadow-sm">
+      <nav className="navbar navbar-expand-lg navbar-info bg-info py-3 shadow-sm">
         <div className="container">
           <NavLink className="navbar-brand fw-bold fs-4" to="/">
         <img  src="N-tra.png" alt="hii"  height={"35px"} width={"140px"}></img> 

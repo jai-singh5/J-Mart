@@ -5,7 +5,7 @@ const Login = () => {
         <>
             
             <div
-                className="px-4 my-5 bg-light rounded-3 py-5"
+                className="hero px-4   rounded-3 py-5"
                 id="loginModal"
                 tabIndex="-1"
                 aria-labelledby="exampleModalLabel"

@@ -9,7 +9,7 @@ const Signup = () => {
             </button> */}
 
             {/* <!-- Modal --> */}
-            <div className="px-4 my-5 bg-light rounded-3 py-5" id="signupModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div className="px-4  rounded-3 py-5" id="signupModal" tabIndex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div className="modal-dialog">
                     <div className="modal-content">
                         <div className="modal-header">

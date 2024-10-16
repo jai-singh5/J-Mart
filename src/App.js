@@ -16,6 +16,7 @@ function App() {
   return (
     <>
       <Navbar />
+      <div className="hero">
       <Routes>
         <Route exact path="/" element={<Home/>} />
         <Route exact path="/products" element={<Products/>} />
@@ -27,6 +28,7 @@ function App() {
         <Route exact path="/login" element={<Login />} />
         <Route exact path="/register" element={<Signup />} />
       </Routes>
+      </div>
       <Footer/>
     </>
   );
