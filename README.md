@@ -70,4 +70,4 @@ Welcome to J-MART, an e-commerce platform built with React and Bootstrap. J-MART
 
 
 
-Thank you for visiting J-MART! ✨
+# Thank you for visiting J-MART! ✨
