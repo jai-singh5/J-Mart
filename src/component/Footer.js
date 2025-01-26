@@ -8,15 +8,15 @@ const Footer = () => {
          <div className=" navbar-nav mx-auto mb-2 mb-lg-0" id="navbarSupportedContent">
            <div className="navbar-nav  " >
              <p className="fw-bold">
-               <i className="fa fa-copyright me-5"> 2024 JAI SINGH</i>
+               <i className="fa fa-copyright me-5"> 2025 JAI SINGH</i>
              </p>         
              <div className="nav-item " id="navbarSupportedContent">
                <a href="https://instagram.com/rajput_jai005"> 
                  <i className="fa fa-instagram me-4"> Instagram</i>
                </a>
-               {/* <a href="https://www.facebook.com/jai.singh.rajput">  */}
+               <a href="https://www.facebook.com/jai.singh.rajput"> 
                  <i className="fa fa-facebook me-4"> Facebook</i>
-               {/* </a> */}
+               </a>
               <a href="https://x.com/PointofRajput"> 
                  <i className="fa fa-twitter me-4"> X</i>
               </a>
